@@ -83,7 +83,7 @@ Substitua `SUA_SENHA` pela senha configurada no seu MySQL.
 **1. Clone o repositório**
 
 ```bash
-git clone https://github.com/SEU-USUARIO/api-rest-contatos-spring-boot.git
+git clone https://github.com/DiegoMarayo/api-rest-contatos-spring-boot.git
 ```
 
 **2. Acesse a pasta do projeto**
