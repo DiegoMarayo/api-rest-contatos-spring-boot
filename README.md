@@ -17,7 +17,6 @@ O projeto foi desenvolvido como atividade prática da disciplina **Desenvolvimen
 ## 🏗️ Estrutura do projeto
 
 ```text
-demorest/
 ├── src/
 │   └── main/
 │       ├── java/
